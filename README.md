@@ -15,21 +15,21 @@
 - フルスタックに技術を積み上げていくのが目標💪🏻
 
 ### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuri-Honda-1101&count_private=true&show_icons=true&theme=gruvbox
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuri-Honda-1101&count_private=true&show_icons=true&theme=dracula
 )](https://github.com/Shuri-Honda-1101/github-readme-stats)
 
 ### GitHub Status
-[![shuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuri-Honda-1101&count_private=true&show_icons=true&theme=gruvbox
+[![shuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuri-Honda-1101&count_private=true&show_icons=true&theme=dracula
 )](https://github.com/Shuri-Honda-1101/github-readme-stats)
 
 ### GitLab
 https://gitlab.com/Shuri-Honda-1101
 
 ### GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shuri-Honda-1101&theme=gruvbox)](https://github.com/Shuri-Honda-1101/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shuri-Honda-1101&theme=dracula)](https://github.com/Shuri-Honda-1101/github-profile-trophy)
 
 ### GitHub Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shuri-Honda-1101&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shuri-Honda-1101&theme=dracula)](https://git.io/streak-stats)
 
 
 <!--
