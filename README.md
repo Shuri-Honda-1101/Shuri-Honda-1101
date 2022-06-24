@@ -12,7 +12,7 @@
   -> (講師：前述と同様)
 
 ### 近況
-- フロントエンド、バックエンドの境なくフルスタックに技術を積み上げていきたい💪🏻
+- フルスタックに技術を積み上げていくのが目標💪🏻
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuri-Honda-1101
