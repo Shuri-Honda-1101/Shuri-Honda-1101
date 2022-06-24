@@ -3,7 +3,7 @@
 
 ### 略歴
 - 2021/07：フロントエンドエンジニアデビュー <br>
-  -> (Next.js/TypeScript/Contentful/storybook)
+  -> (Next.js/TypeScript/Contentful/storybook/GitHub)
 - 2021/12： フロントエンドエンジニア兼プログラミング講師 <br>
   -> (開発：Umi.JS/TypeScript/Firebase/storybook/BigQuery/GAS/GitLab) <br>
   -> (講師：JavaScript/TypeScript/React/Next.jsなど)
