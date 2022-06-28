@@ -13,6 +13,11 @@
 
 ### 近況
 - フルスタックに技術を積み上げていくのが目標💪🏻
+- 情報安全確保支援士試験に向けて勉強中
+
+### 資格
+- 2021/12 基本情報技術試験合格
+- 2022/06 応用情報技術者試験合格
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuri-Honda-1101&count_private=true&show_icons=true&theme=dracula
@@ -28,9 +33,10 @@ https://gitlab.com/Shuri-Honda-1101
 ### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shuri-Honda-1101&theme=dracula)](https://github.com/Shuri-Honda-1101/github-profile-trophy)
 
+<!--
 ### GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shuri-Honda-1101&theme=dracula)](https://git.io/streak-stats)
-
+-->
 
 <!--
 **Shuri-Honda-1101/Shuri-Honda-1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
