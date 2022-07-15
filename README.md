@@ -19,6 +19,10 @@
 - 2021/12 基本情報技術者試験合格
 - 2022/06 応用情報技術者試験合格
 
+## 各リンク
+- [zenn](https://zenn.dev/danbo)
+- [twitter](https://twitter.com/danbodev)
+
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuri-Honda-1101&count_private=true&show_icons=true&theme=dracula
 )](https://github.com/Shuri-Honda-1101/github-readme-stats)
